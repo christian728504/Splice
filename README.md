@@ -8,5 +8,5 @@ gl gcc
 Please refer to each submoudle (repo) for specific instructions regarding installation and auxillary files.
 # Installing environments form envs folder
 ```
-conda env create -f ENVIORNMENT.txt   # Replace ENVIRONMENT with the name of the .txt file
+conda env create -f ENVIORNMENT.yml   # Replace ENVIRONMENT with the name of the .yml file
 ```
