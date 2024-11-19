@@ -5,7 +5,7 @@ If you are running this environment on the UMass SCI Cluster, please run this fi
 gl gcc
 ```
 # Notes
-Please refer to each submoudle (repo) for specific instructions regarding installation and auxillary files.
+Please refer to each submoudle (repo) for specific instructions regarding usage and auxillary files.
 # Installing environments form envs folder
 ```
 conda env create -f ENVIORNMENT.yml   # Replace ENVIRONMENT with the name of the .yml file
