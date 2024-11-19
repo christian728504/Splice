@@ -1,0 +1,15 @@
+[submodule "CI-SpliceAI__Annotation"]
+	path = CI-SpliceAI__Annotation
+	url = https://github.com/YStrauch/CI-SpliceAI__Annotation
+[submodule "nucleotide-transformer"]
+	path = nucleotide-transformer
+	url = https://github.com/instadeepai/nucleotide-transformer
+[submodule "Pangolin"]
+	path = Pangolin
+	url = https://github.com/tkzeng/Pangolin
+[submodule "SpliceTransformer"]
+	path = SpliceTransformer
+	url = https://github.com/ShenLab-Genomics/SpliceTransformer
+[submodule "SpliceAI"]
+	path = SpliceAI
+	url = https://github.com/Illumina/SpliceAI
